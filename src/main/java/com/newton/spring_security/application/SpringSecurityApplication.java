@@ -1,4 +1,4 @@
-package com.newton.spring_security;
+package com.newton.spring_security.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
